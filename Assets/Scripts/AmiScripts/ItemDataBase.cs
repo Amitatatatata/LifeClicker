@@ -16,7 +16,6 @@ public static class ItemDataBase
         Sprite[] sprites = Resources.LoadAll<Sprite>("ItemSprites");
 
         shopItemLists = LoadItemDataBase("ItemDataBase", sprites);
-        
     }
 
     static Dictionary<string, ShopItemList> LoadItemDataBase(string fileName, Sprite[] sprites)
