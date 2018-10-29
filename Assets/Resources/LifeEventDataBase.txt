@@ -1,0 +1,1961 @@
+﻿赤ちゃん
+Name = "ハイハイ"
+Wage = 10
+Description = "見事なハイハイが褒められて、10円もらえた"
+Chance = 1
+
+Name = "ぎこちない発音"
+Wage = 20
+Description = "ぎこちない発音がかわいい。20円もらえた"
+Chance = 1
+
+Name = "頭をぶつける"
+Wage = -10
+Description = "ハイハイで暴走し、壁に頭をぶつける。拍子で10円なくした"
+Chance = 1
+
+end
+
+子供
+Name = "名前を書く"
+Wage = 30
+Description = "自分の名前を書いたら、お母さんに褒められた。30円もらえた"
+Chance = 1
+
+Name = "肩たたき"
+Wage = 40
+Description = "おじいちゃんの肩をたたいてあげた。よろこんで40円くれた"
+Chance = 1
+
+Name = "かけっこで転ぶ"
+Wage = -20
+Description = "全力でダッシュ！！　したら転んだ。ポケットの20円がどこかに消えた、、"
+Chance = 1
+
+end
+
+幼稚園児
+Name = "友だちとサッカー"
+Wage = 80
+Description = "公園でサッカーをして、見事なキック！ゴール！！！見惚れた人から80円もらえた"
+Chance = 1
+
+Name = "足し算の勉強"
+Wage = 100
+Description = "足し算の勉強をした。お母さんに100円おこずかいをもらった"
+Chance = 1
+
+Name = "友だちとけんか"
+Wage = -60
+Description = "幼稚園で友達と大げんか！先生と親にすごくおこられた。60円失う"
+Chance = 1
+
+end
+
+エリート園児
+Name = "英単語の勉強"
+Wage = 150
+Description = "動物の名前を英語で答えた。ご褒美に150円ゲット"
+Chance = 1
+
+Name = "リフティング１０回"
+Wage = 200
+Description = "サッカーボールでリフティング10回！200円ゲット"
+Chance = 1
+
+Name = "財布を置き忘れる"
+Wage = -100
+Description = "電車の座席に財布を置き忘れる。中身の100円を失う"
+Chance = 1
+
+end
+
+小学生
+Name = "漢字の勉強"
+Wage = 300
+Description = "漢字を1000個書いた！ご褒美に300円もらう"
+Chance = 1
+
+Name = "さかあがり連続５回"
+Wage = 400
+Description = "さかあがりを連続で５回決める。400円ゲット"
+Chance = 1
+
+Name = "お菓子にはまる"
+Wage = -250
+Description = "コンビニでお菓子をたくさん買ってしまった！250円失う"
+Chance = 1
+
+end
+
+エリート小学生
+Name = "ピアノの発表会"
+Wage = 500
+Description = "ピアノの発表会で素晴らしい演奏をした。投げ銭500円ゲット"
+Chance = 1
+
+Name = "フラッシュ暗算"
+Wage = 600
+Description = "フラッシュ暗算を覚える。計算上手でお金もたまる。600円ゲット"
+Chance = 1
+
+Name = "いじわる上級生"
+Wage = -400
+Description = "いじわるな上級生にカツアゲされる。400円失った"
+Chance = 1
+
+end
+
+中学生
+Name = "部活の大会で優勝"
+Wage = 1000
+Description = "サッカー部の大会で決勝点を決める！1000円ゲット"
+Chance = 1
+
+Name = "学内順位10位以内"
+Wage = 1500
+Description = "期末試験で学内順位10位以内に入った！親から1500円もらう"
+Chance = 1
+
+Name = "告白失敗"
+Wage = -800
+Description = "好きな子にアタック！するが失敗、、やけ食いで800円失う"
+Chance = 1
+
+end
+
+エリート中学生
+Name = "英語で道案内"
+Wage = 2000
+Description = "街中で外国人に道を聞かれた。すらすらと英語で答えられた！お礼に2000円獲得"
+Chance = 1
+
+Name = "社交ダンス"
+Wage = 2500
+Description = "社交ダンスを踊った。年上の方に褒められて2500円もらう"
+Chance = 1
+
+Name = "へびにかまれた"
+Wage = -1500
+Description = "蛇にかまれ、九死に一生を得る。治療費1500円失う"
+Chance = 1
+
+end
+
+高校生
+Name = "街頭アンケート"
+Wage = 3000
+Description = "駅前で街頭アンケートに答えた。3000円獲得"
+Chance = 1
+
+Name = "おこずかいサイト"
+Wage = 3500
+Description = "おこずかいサイトでコツコツポイントをためる。3500円獲得"
+Chance = 1
+
+Name = "携帯代"
+Wage = -2500
+Description = "携帯で動画を見すぎてしまう。パケット代2500円失う"
+Chance = 1
+
+end
+
+エリート高校生
+Name = "海外旅行"
+Wage = 5000
+Description = "海外旅行で億万長者と友達になる。5000円もらう"
+Chance = 1
+
+Name = "ボランティア"
+Wage = 7500
+Description = "ボランティアに参加したつもりがバイトだった。日給7500円もらう"
+Chance = 1
+
+Name = "参考書代"
+Wage = -6000
+Description = "参考書をたくさん買った。6000円失う"
+Chance = 1
+
+end
+
+文学部
+Name = "執筆バイト"
+Wage = 30000
+Description = "小説の執筆バイトをした。30000円獲得"
+Chance = 1
+
+Name = "小説に読みふける"
+Wage = 25000
+Description = "小説に読みふける。他に何もしなかったので節約できた。25000円獲得"
+Chance = 1
+
+Name = "歩き読み"
+Wage = -20000
+Description = "歩きながら小説を読んでいたら人にぶつかり怪我をさせてしまう。治療費20000円失う"
+Chance = 1
+
+end
+
+法学部
+Name = "法律について討論する"
+Wage = 20000
+Description = "友達と各国の法律について討論した。30000円獲得"
+Chance = 1
+
+Name = "弁護士見習い"
+Wage = 40000
+Description = "弁護士見習いとして弟子入りした。バイト代40000円獲得"
+Chance = 1
+
+Name = "六法全書で怪我"
+Wage = -6000
+Description = "棚から六法全書が足に落ちてきた！小指の骨を折り全治2週間、、35000円失う"
+Chance = 1
+
+end
+
+教育学部
+Name = "ベビーシッター"
+Wage = 20000
+Description = "知り合いにベビーシッターを頼まれる。20000円獲得"
+Chance = 1
+
+Name = "塾講師"
+Wage = 30000
+Description = "塾講師としてバイト。30000円獲得"
+Chance = 1
+
+Name = "子供とサッカー"
+Wage = -15000
+Description = "子供とサッカーをして怪我をさせてしまった。15000円失う"
+Chance = 1
+
+end
+
+理学部
+Name = "教授の助手"
+Wage = 50000
+Description = "教授の助手として実験を手伝った。50000円獲得"
+Chance = 1
+
+Name = "実験で良い成果"
+Wage = 35000
+Description = "実験で良い成果を上げた！35000円獲得"
+Chance = 1
+
+Name = "実験で怪我"
+Wage = -20000
+Description = "実験で手を火傷した。20000円失う"
+Chance = 1
+
+end
+
+農学部
+Name = "農家の手伝い"
+Wage = 20000
+Description = "農家の手伝いをした。20000円獲得"
+Chance = 1
+
+Name = "肥料を作る"
+Wage = 40000
+Description = "肥料の生産をしてみた。評判がよく40000円獲得"
+Chance = 1
+
+Name = "沼にはまる"
+Wage = -30000
+Description = "底なし沼にはまった。救助代30000円失う"
+Chance = 1
+
+end
+
+情報学部
+Name = "クラウドソーシング"
+Wage = 35000
+Description = "クラウドソーシングでバイトした。35000円獲得"
+Chance = 1
+
+Name = "データ入力"
+Wage = 25000
+Description = "データ入力のバイトをした。25000円獲得"
+Chance = 1
+
+Name = "アイコン画像"
+Wage = -30000
+Description = "他人の画像をアイコン画像に使用したら罰金を食らった。30000円失う"
+Chance = 1
+
+end
+
+社会学部
+Name = "経済の波"
+Wage = 30000
+Description = "経済の波を少し読んだ！30000円獲得"
+Chance = 1
+
+Name = "社会について論ずる"
+Wage = 20000
+Description = "社会について論じた記事を書いたら受けた！20000円獲得"
+Chance = 1
+
+Name = "FXで損"
+Wage = -25000
+Description = "FXで損をした。25000円失う。"
+Chance = 1
+
+end
+
+経済学部
+Name = "FXで得"
+Wage = 30000
+Description = "今日はFXで勝った！30000円獲得"
+Chance = 1
+
+Name = "仮想通貨で勝ち"
+Wage = 40000
+Description = "仮想通貨で得をした！40000円獲得"
+Chance = 1
+
+Name = "競馬で負けた"
+Wage = -35000
+Description = "競馬で負けた！35000円失う"
+Chance = 1
+
+end
+
+工学部
+Name = "便利な道具"
+Wage = 35000
+Description = "便利な道具を作って作業効率を上げた！35000円獲得"
+Chance = 1
+
+Name = "はんだづけ"
+Wage = 20000
+Description = "はんだ付けのバイトをした！20000円獲得"
+Chance = 1
+
+Name = "金属を切断"
+Wage = -30000
+Description = "金属を切断していたらまぶしくて視力が下がった！30000円失う"
+Chance = 1
+
+end
+
+体育学部
+Name = "サッカーでパフォーマンス"
+Wage = 40000
+Description = "サッカーでパフォーマンスをした！40000円獲得"
+Chance = 1
+
+Name = "バッティングセンターでホームラン"
+Wage = 30000
+Description = "バッティングセンターでホームラン連発！商品を換金し30000円獲得"
+Chance = 1
+
+Name = "あしをくじく"
+Wage = -20000
+Description = "テニスをしていたら足をくじいた。治療費20000円失う"
+Chance = 1
+
+end
+
+医学部
+Name = "友達に診療"
+Wage = 40000
+Description = "友達に診療してあげた！40000円獲得"
+Chance = 1
+
+Name = "けがを治したら"
+Wage = 50000
+Description = "見知らぬ人の治療をしたら有名人だった！お礼に50000円獲得"
+Chance = 1
+
+Name = "自分で治療"
+Wage = -35000
+Description = "歯が痛んだので自分で治療したら悪化した！35000円失う"
+Chance = 1
+
+end
+
+芸術学部
+Name = "美術館で絵を買う"
+Wage = 30000
+Description = "美術館で絵を買ったら後日値が上がった！30000円獲得"
+Chance = 1
+
+Name = "絵を売る"
+Wage = 35000
+Description = "絵をかいて路上で売ったら結構売れた！35000円獲得"
+Chance = 1
+
+Name = "絵具をぶちまける"
+Wage = -25000
+Description = "絵具をうっかり踏んでしまい、すべてぶちまけてしまった！25000円失う"
+Chance = 1
+
+end
+
+Webとゲーム
+Name = "ゲーム開発のバイト"
+Wage = 15000
+Description = "ゲーム開発の下請けをした！15000円獲得"
+Chance = 1
+
+Name = "アプリ開発"
+Wage = 12000
+Description = "アプリをリリースして広告収入！12000円獲得"
+Chance = 1
+
+Name = "キーボードを叩きすぎて"
+Wage = -10000
+Description = "キーボードを叩きすぎて指を骨折。治療費10000円失う"
+Chance = 1
+
+end
+
+建築・土木
+Name = "日曜大工"
+Wage = 10000
+Description = "日曜大工をしたら報酬をもらえた。10000円獲得"
+Chance = 1
+
+Name = "引っ越しのバイト"
+Wage = 8000
+Description = "引っ越しのバイトをした。8000円獲得"
+Chance = 1
+
+Name = "ぎっくり腰"
+Wage = -5000
+Description = "重いものを持ったらぎっくり腰になった。50000円失う"
+Chance = 1
+
+end
+
+インテリア
+Name = "きれいな家具をネットで売った"
+Wage = 12000
+Description = "きれいな家具をネットで売った！12000円失う"
+Chance = 1
+
+Name = "インテリアの配置"
+Wage = 10000
+Description = "インテリアの配置をした！風水がよくなり10000円拾う"
+Chance = 1
+
+Name = "家具を壊す"
+Wage = -7000
+Description = "つぼを割ってしまった。7000円失う"
+Chance = 1
+
+end
+
+看護（医療・リハビリ）
+Name = "介護の仕事"
+Wage = 6000
+Description = "おじいちゃんの介護をしてあげた。6000円獲得"
+Chance = 1
+
+Name = "介護の仕事2"
+Wage = 7000
+Description = "おばあちゃんの歩きを補助してあげた。7000円獲得"
+Chance = 1
+
+Name = "介護で怪我"
+Wage = -5000
+Description = "介護中に肩を怪我してしまった！5000円失う"
+Chance = 1
+
+end
+
+調理・製菓・栄養士
+Name = "お菓子売る"
+Wage = 8000
+Description = "お菓子を作って売った！8000円獲得"
+Chance = 1
+
+Name = "料理教室を開いた"
+Wage = 10000
+Description = "料理教室を開いた！10000円獲得"
+Chance = 1
+
+Name = "ゆび切る"
+Wage = -8000
+Description = "包丁で指を切った！治療費8000円かかった"
+Chance = 1
+
+end
+
+公務員
+Name = "ボランティア"
+Wage = 7000
+Description = "地方ボランティアに参加したら、おじいさんからお礼に7000円もらった！"
+Chance = 1
+
+Name = "10000円拾う"
+Wage = 10000
+Description = "10000円を拾った！交番に届けたが持ち主現れず、全額獲得！"
+Chance = 1
+
+Name = "公務員試験"
+Wage = -5000
+Description = "公務員試験の勉強で5000円かかった"
+Chance = 1
+
+end
+
+語学
+Name = "通訳"
+Wage = 7000
+Description = "困っている外国人の通訳をしたらチップで7000円もらった"
+Chance = 1
+
+Name = "友達の英語"
+Wage = 5000
+Description = "友達の英語の宿題を有料で手伝った！5000円獲得"
+Chance = 1
+
+Name = "通訳失敗"
+Wage = -4000
+Description = "通訳が失敗して外国人と喧嘩になってしまった！4000円失う"
+Chance = 1
+
+end
+
+漫画
+Name = "アシスタント"
+Wage = 5000
+Description = "漫画家のアシスタントとして働いた！5000円獲得"
+Chance = 1
+
+Name = "アニメーター"
+Wage = 6000
+Description = "アニメ会社のアニメーターとして働いた！6000円獲得"
+Chance = 1
+
+Name = "漫画で指を切る"
+Wage = -4000
+Description = "漫画で指を切ってしまった！治療費4000円"
+Chance = 1
+
+end
+
+芸術・工芸
+Name = "工芸品の宣伝"
+Wage = 8000
+Description = "工芸品をネットで宣伝したら話題になった！8000円獲得"
+Chance = 1
+
+Name = "芸術の宣伝"
+Wage = 7000
+Description = "芸術品をネットで宣伝したら話題になった！7000円獲得"
+Chance = 1
+
+Name = "作品作りに没頭"
+Wage = -5000
+Description = "作品作りに没頭する。材料費5000円かかった"
+Chance = 1
+
+end
+
+美容・メイク
+Name = "メイクのコンテスト"
+Wage = 8000
+Description = "メイクのコンテストに優勝し、賞金8000円獲得"
+Chance = 1
+
+Name = "友達にメイク"
+Wage = 7000
+Description = "友達にメイクのことを教えた！お礼に7000円獲得"
+Chance = 1
+
+Name = "メイク道具"
+Wage = -6000
+Description = "メイク道具を買いすぎて6000円かかった"
+Chance = 1
+
+end
+
+理容・理髪
+Name = "友達の髪"
+Wage = 8000
+Description = "友達の髪をスタイリングした！お礼に8000円獲得"
+Chance = 1
+
+Name = "理髪コンテスト"
+Wage = 7000
+Description = "理髪コンテストで優勝し、賞金7000円獲得"
+Chance = 1
+
+Name = "自分の髪"
+Wage = -6000
+Description = "自分の髪を切っていたら失敗した！取り返そうと美容院に行ったら結局6000円かかる"
+Chance = 1
+
+end
+
+機械・電気・電子
+Name = "電気部品の組み立て"
+Wage = 8000
+Description = "電気部品の組み立てのバイトをした。8000円獲得"
+Chance = 1
+
+Name = "PCの組み立て"
+Wage = 6000
+Description = "友達のPCを組み立ててあげた。お礼として6000円獲得"
+Chance = 1
+
+Name = "部品の接続"
+Wage = -5000
+Description = "部品を誤って接続して機械が壊れた。5000円損失"
+Chance = 1
+
+end
+
+保育・教育
+Name = "子供の面倒"
+Wage = 8000
+Description = "子供の面倒を1日みた！8000円獲得"
+Chance = 1
+
+Name = "小さい子の先生体験"
+Wage = 7000
+Description = "小さい子の先生として1日働く。7000円獲得"
+Chance = 1
+
+Name = "子供が怪我"
+Wage = -6000
+Description = "預かっていた子供を怪我させてしまった！6000円失う"
+Chance = 1
+
+end
+
+旅行・観光・ホテル
+Name = "観光地のパンフレット"
+Wage = 7000
+Description = "観光地のパンフレットを作った。7000円獲得"
+Chance = 1
+
+Name = "ホテルのスタッフ"
+Wage = 8000
+Description = "ホテルのスタッフのバイトをした。8000円獲得"
+Chance = 1
+
+Name = "旅行で落とし物"
+Wage = -5000
+Description = "旅行で5000円落とした"
+Chance = 1
+
+end
+
+ビジネスと経営
+Name = "プチ経営"
+Wage = 7000
+Description = "スーパーで食べ物を仕入れて売った。7000円獲得"
+Chance = 1
+
+Name = "バイト"
+Wage = 8000
+Description = "バイトで8000円ゲットした"
+Chance = 1
+
+Name = "経営難のバイト"
+Wage = -7000
+Description = "バイト先が経営難で7000で肩代わりした"
+Chance = 1
+
+end
+
+音楽
+Name = "路上ライブ"
+Wage = 7000
+Description = "路上ライブが大盛況！投げ銭で7000円獲得"
+Chance = 1
+
+Name = "CDが売れた"
+Wage = 5000
+Description = "自分が所属するバンドのCDを売った！5000円獲得"
+Chance = 1
+
+Name = "騒音"
+Wage = -4000
+Description = "家で歌の練習をしていたら騒音でクレームが来た！4000円失う"
+Chance = 1
+
+end
+
+イベント（ライブ会場の設営や運営）
+Name = "イベントスタッフ"
+Wage = 8000
+Description = "イベントスタッフとして1日働いた！8000円獲得"
+Chance = 1
+
+Name = "音楽イベントの企画"
+Wage = 7000
+Description = "音楽イベントを企画した。7000円獲得"
+Chance = 1
+
+Name = "イベントで人をけがさせてしまう"
+Wage = -5000
+Description = "イベントでお客さんに怪我させてしまった。5000円失う"
+Chance = 1
+
+end
+
+健康・スポーツ
+Name = "マッサージ"
+Wage = 7000
+Description = "マッサージをしてあげた！7000円獲得"
+Chance = 1
+
+Name = "トレーニングインストラクター"
+Wage = 8000
+Description = "トレーニングインストラクターとして指導した！8000円獲得"
+Chance = 1
+
+Name = "強くマッサージしすぎた"
+Wage = -5000
+Description = "強くマッサージしすぎて手が筋肉痛になった。5000円失う"
+Chance = 1
+
+end
+
+自動車・航空
+Name = "自動車整備"
+Wage = 9000
+Description = "自動車の整備をした!9000円獲得"
+Chance = 1
+
+Name = "航空機シミュレーション"
+Wage = 7000
+Description = "航空機シミュレーションに成功した！7000円獲得"
+Chance = 1
+
+Name = "事故"
+Wage = -10000
+Description = "自動車事故を起こす。10000円失う"
+Chance = 1
+
+end
+
+動物
+Name = "動物の世話"
+Wage = 7000
+Description = "動物を１日預かった！お礼に7000円もらった"
+Chance = 1
+
+Name = "犬小屋の掃除"
+Wage = 8000
+Description = "知り合いの犬小屋の掃除をした!8000円獲得"
+Chance = 1
+
+Name = "動物が逃げた"
+Wage = -5000
+Description = "預かっていた犬が逃げてしまった！３日かけてなんとか見つける、、5000円失う"
+Chance = 1
+
+end
+
+園芸・農林
+Name = "園芸用の土地を耕す"
+Wage = 8000
+Description = "園芸用の土地を耕した！8000円獲得"
+Chance = 1
+
+Name = "花を植える"
+Wage = 7000
+Description = "ひたすら花を植えるバイトをした。7000円獲得"
+Chance = 1
+
+Name = "育成に失敗"
+Wage = -5000
+Description = "花の育成に失敗に全滅させてしまう。5000円失う"
+Chance = 1
+
+end
+
+ファッション
+Name = "ファッション誌に載る"
+Wage = 8000
+Description = "ファッション誌にモデルとして掲載された！8000円獲得"
+Chance = 1
+
+Name = "服の転売"
+Wage = 9000
+Description = "はやりの服を見分けて転売した！9000円獲得"
+Chance = 1
+
+Name = "服の修繕"
+Wage = -7000
+Description = "服の修繕に失敗してめちゃめちゃにしてしまった！7000円失う"
+Chance = 1
+
+end
+
+マスコミ・芸能
+Name = "新聞にコラムが"
+Wage = 8000
+Description = "新聞に自分のコラムが掲載された！8000円獲得"
+Chance = 1
+
+Name = "番組編集"
+Wage = 9000
+Description = "テレビ番組のワンカットを編集させてもらえた！9000円獲得"
+Chance = 1
+
+Name = "テレビ番組のエキストラ"
+Wage = -5000
+Description = "テレビ番組のエキストラとして出演したら収録でずっこけてしまう！5000円失う"
+Chance = 1
+
+end
+
+ゲームクリエイター
+Name = "デバッグ"
+Wage = 50000
+Description = "１日中デバッグをしてやっとバグを発見した！50000円獲得"
+Chance = 1
+
+Name = "キャラクタープログラム"
+Wage = 40000
+Description = "キャラクターを動かすプログラムを作った！40000円獲得"
+Chance = 1
+
+Name = "バグ"
+Wage = -30000
+Description = "製品版のゲームで致命的なエラーが発生してしまう！30000円失う"
+Chance = 1
+
+end
+
+Webデザイナー
+Name = "Webデザイン"
+Wage = 60000
+Description = "Webのある1ページをデザインした！60000円獲得"
+Chance = 1
+
+Name = "お客さん"
+Wage = 70000
+Description = "Webサイトの集客に成功した！70000円獲得"
+Chance = 1
+
+Name = "Webページが動かなくなる"
+Wage = -50000
+Description = "Webページが動かなくなった！50000円失う"
+Chance = 1
+
+end
+
+建築士
+Name = "オフィスをデザインした"
+Wage = 80000
+Description = "オフィスをデザインした！80000円獲得"
+Chance = 1
+
+Name = "カフェの内装"
+Wage = 70000
+Description = "カフェの内装をデザインした。70000円獲得"
+Chance = 1
+
+Name = "設計書"
+Wage = -60000
+Description = "停電によって建物の設計書が消えてしまった！60000円失う"
+Chance = 1
+
+end
+
+大工
+Name = "家を作った"
+Wage = 120000
+Description = "家が完成した！120000円獲得"
+Chance = 1
+
+Name = "犬小屋"
+Wage = 30000
+Description = "犬小屋が完成した！30000円獲得"
+Chance = 1
+
+Name = "高所から落ちる"
+Wage = -90000
+Description = "高所から落下して怪我をしてしまった！90000円失う"
+Chance = 1
+
+end
+
+インテリアコーディネーター
+Name = "カフェの内装"
+Wage = 60000
+Description = "カフェの内装をした！60000円獲得"
+Chance = 1
+
+Name = "結婚式場"
+Wage = 70000
+Description = "結婚式場のインテリアを決めた！70000円獲得"
+Chance = 1
+
+Name = "納期が遅れた"
+Wage = -50000
+Description = "海外インテリアの輸入が納期に間に合わなかった！50000円失う"
+Chance = 1
+
+end
+
+看護師
+Name = "おじいさん"
+Wage = 80000
+Description = "看護していたおじいさんの容体がよくなった！80000円獲得"
+Chance = 1
+
+Name = "おばあさん"
+Wage = 70000
+Description = "看護していたおばあさんの容体がよくなった！70000円獲得"
+Chance = 1
+
+Name = "ぎっくり腰"
+Wage = -60000
+Description = "おじいさんを持ち上げる際にぎっくり腰になってしまった！60000円失う"
+Chance = 1
+
+end
+
+整体師
+Name = "マッサージ"
+Wage = 70000
+Description = "マッサージで肩こりを治してあげた！70000円獲得"
+Chance = 1
+
+Name = "背骨"
+Wage = 80000
+Description = "背骨を強制して姿勢を治してあげた！80000円獲得"
+Chance = 1
+
+Name = "強く押しすぎ"
+Wage = -50000
+Description = "強く押しすぎてお客さんの肩こりを悪化させた！50000円失う"
+Chance = 1
+
+end
+
+調理師
+Name = "料理教室を開く"
+Wage = 70000
+Description = "料理教室を開いた！70000円獲得"
+Chance = 1
+
+Name = "弁当を販売した"
+Wage = 50000
+Description = "お弁当を販売したらよく売れた！50000円獲得"
+Chance = 1
+
+Name = "食中毒"
+Wage = -60000
+Description = "料理教室で食中毒発生！60000円失う"
+Chance = 1
+
+end
+
+パティシエ
+Name = "お菓子教室"
+Wage = 80000
+Description = "お菓子教室を開いた！80000円獲得"
+Chance = 1
+
+Name = "お菓子販売"
+Wage = 70000
+Description = "お菓子をネットで販売した！70000円獲得"
+Chance = 1
+
+Name = "食中毒"
+Wage = -60000
+Description = "お菓子教室で食中毒が起きた！60000円失う"
+Chance = 1
+
+end
+
+地方公務員
+Name = "税金徴収"
+Wage = 80000
+Description = "税金を取り立てた！80000円獲得"
+Chance = 1
+
+Name = "住所変更"
+Wage = 70000
+Description = "住所変更手続きをしてあげた！70000円獲得"
+Chance = 1
+
+Name = "記載ミス"
+Wage = -60000
+Description = "個人情報の記載に誤りが見つかった！60000円失う"
+Chance = 1
+
+end
+
+国家公務員
+Name = "税金徴収"
+Wage = 80000
+Description = "税金を取り立てた！80000円獲得"
+Chance = 1
+
+Name = "住所変更"
+Wage = 70000
+Description = "住所変更手続きをしてあげた！70000円獲得"
+Chance = 1
+
+Name = "記載ミス"
+Wage = -60000
+Description = "個人情報の記載に誤りが見つかった！60000円失う"
+Chance = 1
+
+end
+
+通訳師
+Name = "通訳特需"
+Wage = 100000
+Description = "大物俳優から通訳を依頼され才能を買われた。100000円獲得"
+Chance = 30
+
+Name = "外国人のサポート"
+Wage = 50000
+Description = "外国人旅行客に尋ねられて、対応したら褒められた。50000円獲得"
+Chance = 40
+
+Name = "海外でスリに遭う"
+Wage = -50000
+Description = "海外で街中を歩いていたら、突然集団に絡まれてお金を盗られた。50000円失った"
+Chance = 30
+
+end
+
+翻訳家
+Name = "大手出版社からの依頼"
+Wage = 70000
+Description = "赤ちゃんの予知により埋蔵金発見。70000円獲得"
+Chance = 30
+
+Name = "読者からの評価"
+Wage = 35000
+Description = "翻訳協力した本が売れて、読者からお褒めの言葉を頂いた。35000円獲得"
+Chance = 40
+
+Name = "翻訳に対するクレーム"
+Wage = -45000
+Description = "自分で翻訳した文章に対しクレームが入り、払い戻しを請求された。45000円失った"
+Chance = 30
+
+end
+
+漫画家
+Name = "重版決定"
+Wage = 40000
+Description = "描いた漫画が売れて、重版が決定された。40000円獲得"
+Chance = 30
+
+Name = "ネット民の応援"
+Wage = 20000
+Description = "ネット上のある読者が自分が描いた漫画を読んで応援していた。20000円獲得"
+Chance = 40
+
+Name = "なかなか売れない"
+Wage = -65000
+Description = "描いた漫画が売れず、連載が打ち切りになった。65000円失った"
+Chance = 30
+
+end
+
+芸術家
+Name = "コンテスト受賞"
+Wage = 150000
+Description = "コンテストに出展したら、最優秀賞を頂いた。150000円獲得"
+Chance = 30
+
+Name = "小さな応援"
+Wage = 30000
+Description = "芸術愛好家の方から、応援の言葉を頂いた。30000円獲得"
+Chance = 40
+
+Name = "スランプに陥る"
+Wage = -60000
+Description = "アイディアが浮かばず、時間をただ浪費させてしまった。60000円失った"
+Chance = 30
+
+end
+
+スタイリスト
+Name = "専属スタイリストに"
+Wage = 80000
+Description = "芸能人の専属スタイリストになった。80000円獲得"
+Chance = 30
+
+Name = "才能を買われる"
+Wage = 30000
+Description = "自分の仕事ぶりが評価され、新たな注文を頂いた。30000円獲得"
+Chance = 40
+
+Name = "トラブルに遭う"
+Wage = -50000
+Description = "リクエスト通りに仕立てたが、要求しているリクエストと違うとクレームが入った。50000円失った"
+Chance = 30
+
+end
+
+理容師
+Name = "芸術人を相手に"
+Wage = 80000
+Description = "お忍びで来客した芸能人に手厚くサポートしたら気に入ってくれた。80000円獲得"
+Chance = 30
+
+Name = "お客さんに好かれる"
+Wage = 20000
+Description = "お客さんとコミュニケーションをとっていたら、また来てやってもらいたいと褒められた。20000円獲得"
+Chance = 40
+
+Name = "コミュニケーションがとれなかった"
+Wage = -30000
+Description = "お客さんとコミュニケーションしようとしたが、応じてくれなかった。30000円失った"
+Chance = 30
+
+end
+
+電気技術師
+Name = "大手電機メーカーから"
+Wage = 120000
+Description = "特殊な機械部位の開発で評価を頂いた。120000円獲得"
+Chance = 30
+
+Name = "頑張りに評価"
+Wage = 20000
+Description = "真剣に仕事に取り組んでいたら、上司に褒められた。20000円獲得"
+Chance = 40
+
+Name = "納期に間に合わない"
+Wage = -60000
+Description = "機械のトラブルで、納期に間に合わなかった。60000円失った"
+Chance = 30
+
+end
+
+保育士
+Name = "仕事ぶりが本に"
+Wage = 90000
+Description = "仕事に対しての向き合い方を本にしたら大変な反響を頂いた。90000円獲得"
+Chance = 30
+
+Name = "キッカケは子供の笑顔"
+Wage = 40000
+Description = "子供たちの笑顔がキッカケで、保護者に褒められた。40000円獲得"
+Chance = 40
+
+Name = "モンスターペアレントからのクレーム"
+Wage = -50000
+Description = "施設で子供が独りぼっちにされている、とクレームつけられた。50000円失った"
+Chance = 30
+
+end
+
+教師
+Name = "自叙伝が売れる"
+Wage = 90000
+Description = "普段の教育に対する自叙伝を出したら、売れて世間で話題になった。90000円獲得"
+Chance = 30
+
+Name = "生徒に好かれる"
+Wage = 35000
+Description = "授業での教え方と人柄に魅了され、生徒らから信頼を受けた。35000円獲得"
+Chance = 40
+
+Name = "事態が収束しない"
+Wage = -70000
+Description = "学校内でいじめが発生し仲裁して解決させようとしたが、事態が悪化し保護者らから罵詈雑言の嵐を浴びせられた。70000円失った"
+Chance = 30
+
+end
+
+塾講師
+Name = "保護者の間でも話題に"
+Wage = 70000
+Description = "授業のわかりやすさと人柄が保護者の間でも話題になった。70000円獲得"
+Chance = 30
+
+Name = "生徒に愛される"
+Wage = 25000
+Description = "人柄に魅了され、生徒とよく絡まれるようになった。25000円獲得"
+Chance = 40
+
+Name = "納得してくれない"
+Wage = -40000
+Description = "授業で説明した内容をもう一度、丁寧に説明しても納得してくれなかった。40000円失った"
+Chance = 30
+
+end
+
+ホテルスタッフ
+Name = "外国人絶賛"
+Wage = 90000
+Description = "外国人の方が何か困っていたので、助けてあげたら喜ばれた。90000円獲得"
+Chance = 30
+
+Name = "対応に褒められる"
+Wage = 55000
+Description = "お客様のリクエストに丁寧に対応したら褒められた。55000円獲得"
+Chance = 40
+
+Name = "お客様、怒る"
+Wage = -65000
+Description = "お客様のリクエストと違うことをしてしまい怒られた。65000円失った"
+Chance = 30
+
+end
+
+旅行代理店
+Name = "代表的な存在に"
+Wage = 80000
+Description = "旅行代理店での活躍が評価され、代表的な存在になった。80000円獲得"
+Chance = 30
+
+Name = "お客様に気に入られれる"
+Wage = 45000
+Description = "お客様に真摯に対応したら気に入られた。45000円獲得"
+Chance = 40
+
+Name = "お客様を怒らせてしまった"
+Wage = -55000
+Description = "旅行プランにお気に召されず、お客様を怒らせてしまった。55000円失った"
+Chance = 30
+
+end
+
+起業家
+Name = "需要獲得"
+Wage = 180000
+Description = "企画した事業が成功し、世間の求める需要を獲得した。180000円獲得"
+Chance = 30
+
+Name = "株価上昇"
+Wage = 45000
+Description = "自社株が上昇した。45000円獲得"
+Chance = 40
+
+Name = "事業失敗"
+Wage = -150000
+Description = "自ら企画した事業が失敗した。150000円失った"
+Chance = 30
+
+end
+
+会計士
+Name = "功労者として選ばれた"
+Wage = 90000
+Description = "会社の功労者としてボーナスをいただいた。90000円獲得"
+Chance = 30
+
+Name = "頑張りに期待"
+Wage = 40000
+Description = "仕事に終始していたら上司から応援の言葉をいただいた。40000円獲得"
+Chance = 40
+
+Name = "管理ミス"
+Wage = -70000
+Description = "会社の会計管理を誤ってしまい、迷惑をかけてしまった。70000円失った"
+Chance = 30
+
+end
+
+音楽家
+Name = "世界でもヒット"
+Wage = 110000
+Description = "作曲した楽曲が世界でもヒットした。110000円獲得"
+Chance = 30
+
+Name = "口コミが広がる"
+Wage = 50000
+Description = "SNSでオススメ曲として口コミが広がる。50000円獲得"
+Chance = 40
+
+Name = "作れないスランプ"
+Wage = -100000
+Description = "新曲がなかなか出来ず、スランプに陥ってしまった。100000円失った"
+Chance = 30
+
+end
+
+DJ
+Name = "有名なDJプロデューサーとコラボ"
+Wage = 105000
+Description = "世界的にも有名なDJプロデューサーとコラボした。105000円獲得"
+Chance = 30
+
+Name = "ファンを獲得"
+Wage = 50000
+Description = "新規のファンを獲得した。50000円獲得"
+Chance = 40
+
+Name = "観客あんまりいない"
+Wage = -85000
+Description = "天候の影響で、ライブ会場に観客があまりいなかった。85000円失った"
+Chance = 30
+
+end
+
+イベントスタッフ
+Name = "歴代最高の観客動員数達成"
+Wage = 65000
+Description = "歴代最高の観客動員数達成した。65000円獲得"
+Chance = 30
+
+Name = "観客と一体に"
+Wage = 30000
+Description = "会場の熱気が高まり、観客と一体になって楽しいイベントとなった。30000円獲得"
+Chance = 40
+
+Name = "会場設営中にケガ"
+Wage = -45000
+Description = "イベント会場設営中にケガしてしまった。45000円失った"
+Chance = 30
+
+end
+
+トレーナー
+Name = "長期会員の方からの感謝"
+Wage = 65000
+Description = "長くお世話になっている会員の方から、感謝状をいただいた。65000円獲得"
+Chance = 30
+
+Name = "新規のお客さんに気に入られる"
+Wage = 30000
+Description = "新規のお客さんに気に入られた。30000円獲得"
+Chance = 40
+
+Name = "体調を崩す"
+Wage = -50000
+Description = "張り切りすぎて体調を崩してしまった。50000円失った"
+Chance = 30
+
+end
+
+整備士
+Name = "日頃の努力を鑑みて"
+Wage = 80000
+Description = "日頃の頑張りが認められ、ボーナスをいただいた。80000円獲得"
+Chance = 30
+
+Name = "先輩に褒められる"
+Wage = 35000
+Description = "普段褒めてくれない先輩に褒められた。35000円獲得"
+Chance = 40
+
+Name = "整備不良"
+Wage = -90000
+Description = "メンテナンス後に整備不良が見つかり迷惑をかけてしまった。90000円失った"
+Chance = 30
+
+end
+
+飼育員
+Name = "園内の人気者に"
+Wage = 70000
+Description = "来場されるお客さんの間で広く知られるようになり、園内の人気者になった。70000円獲得"
+Chance = 30
+
+Name = "戯れているところが話題に"
+Wage = 45000
+Description = "動物と戯れているところが話題になった。45000円獲得"
+Chance = 40
+
+Name = "飼育中にケガ"
+Wage = -70000
+Description = "エサをあげてる時にケガをしてしまった。70000円失った"
+Chance = 30
+
+end
+
+園芸師
+Name = "メディアに取り上げられる"
+Wage = 82000
+Description = "メディアに取り上げられ、園芸師として広く知れ渡るようになった。82000円獲得"
+Chance = 30
+
+Name = "講演会の評判が良い"
+Wage = 40000
+Description = "自身の園芸に関する講演会を開いたら好評だった。40000円獲得"
+Chance = 40
+
+Name = "手にケガ"
+Wage = -75000
+Description = "花を生けている時に、手にケガをしてしまった。75000円失った"
+Chance = 30
+
+end
+
+スタイリスト
+Name = "大物芸能人に気に入られる"
+Wage = 92000
+Description = "才能を認められ、大物芸能人に気に入られた。92000円獲得"
+Chance = 30
+
+Name = "やりがいを感じる"
+Wage = 40000
+Description = "自分がスタイリングしたことに対し感謝をいただいた。40000円獲得"
+Chance = 40
+
+Name = "芸能人とトラブル"
+Wage = -84000
+Description = "芸能人がお気に召さずトラブルが起きた。84000円失った"
+Chance = 30
+
+end
+
+ファッションデザイナー
+Name = "流行の最先端を行く"
+Wage = 95000
+Description = "自分のことを広く知られるようになり、流行の最先端を行くファッションデザイナーになった。95000円獲得"
+Chance = 30
+
+Name = "口コミで話題に"
+Wage = 40000
+Description = "自分がデザインしたデザインに対し口コミで話題になった。40000円獲得"
+Chance = 40
+
+Name = "ファッションが受けいられない"
+Wage = -89000
+Description = "ファッションが受けいられず流行らなかった。89000円失った"
+Chance = 30
+
+end
+
+アナウンサー
+Name = "代表的な存在に"
+Wage = 90000
+Description = "仕事ぶりが世間でも認められ、代表的な存在になる。95000円獲得"
+Chance = 30
+
+Name = "印象良く評価される"
+Wage = 43000
+Description = "視聴者らから印象良く評価される。43000円獲得"
+Chance = 40
+
+Name = "放送中に原稿を読み間違える"
+Wage = -80000
+Description = "ニュースを誤って伝えてしまった。80000円失った"
+Chance = 30
+
+end
+
+芸能人
+Name = "さまざまな現場で活躍"
+Wage = 120000
+Description = "芸能人としての活躍だけでなく、本を出したり、映画に出演するようになった。120000円獲得"
+Chance = 30
+
+Name = "人気を勝ち取る"
+Wage = 40000
+Description = "視聴者らからよく応援されるようになった。40000円獲得"
+Chance = 40
+
+Name = "事故に遭う"
+Wage = -120000
+Description = "交通事故に遭い、入院を余儀なくされた。120000円失った"
+Chance = 30
+
+end
+
+ジャーナリスト
+Name = "世間で広く認知される"
+Wage = 110000
+Description = "ジャーナリストとして、世間で広く認知される。110000円獲得"
+Chance = 30
+
+Name = "評判になる"
+Wage = 45000
+Description = "レポートした内容がわかりやすいと評判になる。45000円獲得"
+Chance = 40
+
+Name = "事件に巻き込まれる"
+Wage = -150000
+Description = "事件に巻き込まれて、命を落としかけた。150000円失った"
+Chance = 30
+
+end
+
+パチンコスタッフ
+Name = "ボーナスもらう"
+Wage = 75000
+Description = "スタッフとして仕事ぶりが評価され、ボーナスをいただいた。75000円獲得"
+Chance = 30
+
+Name = "仕事頑張る"
+Wage = 30000
+Description = "スタッフとしての職務を全うした。30000円獲得"
+Chance = 40
+
+Name = "ヤクザに絡まれる"
+Wage = -70000
+Description = "夜遅くにヤクザに絡まれてお金を失った。70000円失った"
+Chance = 30
+
+end
+
+土木
+Name = "現場の先輩に褒められる"
+Wage = 70000
+Description = "仕事ぶりが評価され、褒められた。70000円獲得"
+Chance = 30
+
+Name = "仕事頑張る"
+Wage = 30000
+Description = "必死に職務を全うした。30000円獲得"
+Chance = 40
+
+Name = "現場でケガ"
+Wage = -60000
+Description = "仕事中にケガをした。60000円失った"
+Chance = 30
+
+end
+
+配送
+Name = "営業成績トップ"
+Wage = 80000
+Description = "営業成績トップとなり、褒められた。80000円獲得"
+Chance = 30
+
+Name = "応援される"
+Wage = 35000
+Description = "配送先のお客さんに応援の言葉をいただいた。35000円獲得"
+Chance = 40
+
+Name = "体調不良"
+Wage = -90000
+Description = "無理に仕事をこなしすぎて、体調を崩した。90000円失った"
+Chance = 30
+
+end
+
+清掃
+Name = "日頃の頑張り"
+Wage = 80000
+Description = "日頃の頑張りが認められ、ボーナスをいただいた。80000円獲得"
+Chance = 30
+
+Name = "笑顔をもらう"
+Wage = 30000
+Description = "清掃中に声をかけてもらい笑顔をいただいた。30000円獲得"
+Chance = 40
+
+Name = "体調不良"
+Wage = -70000
+Description = "無理に仕事をこなしすぎて、体調を崩した。70000円失った"
+Chance = 30
+
+end
+
+建築
+Name = "現場の先輩に褒められる"
+Wage = 70000
+Description = "仕事ぶりが評価され、褒められた。70000円獲得"
+Chance = 30
+
+Name = "仕事頑張る"
+Wage = 30000
+Description = "必死に職務を全うした。30000円獲得"
+Chance = 40
+
+Name = "現場でケガ"
+Wage = -60000
+Description = "仕事中にケガをした。60000円失った"
+Chance = 30
+
+end
+
+YouTuber
+Name = "日本を代表するYouTuberに"
+Wage = 100000
+Description = "チャンネル登録者数が150万人を超えて、日本を代表するYouTuberになった。100000円獲得"
+Chance = 30
+
+Name = "企業案件が増える"
+Wage = 50000
+Description = "YouTuberとしての好感度が上がり、企業案件が増えた。50000円獲得"
+Chance = 40
+
+Name = "自分のチャンネルがBANされる"
+Wage = -150000
+Description = "過激な動画を作ってしまい、自分のチャンネルがBANされる。150000円失った"
+Chance = 30
+
+end
+
+警備員
+Name = "警備皆勤賞"
+Wage = 110000
+Description = "勤務日に警備し続けて、警備皆勤賞を頂いた。110000円獲得"
+Chance = 30
+
+Name = "雇い主と挨拶"
+Wage = 50000
+Description = "警備をしていたら、雇い主と合い挨拶をした。50000円獲得"
+Chance = 40
+
+Name = "暴行を食らう"
+Wage = -120000
+Description = "警備中に無断で侵入してきた不審者を追い返そうとしたら、暴行を食らった。120000円失った"
+Chance = 30
+
+end
+
+仕分け
+Name = "現場のプロ"
+Wage = 100000
+Description = "仕分けが上達して、現場のプロと称されるようになった。100000円獲得"
+Chance = 30
+
+Name = "仕事のペース順調"
+Wage = 40000
+Description = "普段よりもいいペースで仕分けができた。40000円獲得"
+Chance = 40
+
+Name = "過労で仕事を休む"
+Wage = -90000
+Description = "過労で仕事を休んだ。90000円失った"
+Chance = 30
+
+end
+
+着ぐるみ
+Name = "子供たちの人気者"
+Wage = 80000
+Description = "子供たちの人気者になった。80000円獲得"
+Chance = 30
+
+Name = "地道に営業"
+Wage = 30000
+Description = "地道に営業をこなして頑張った。30000円獲得"
+Chance = 40
+
+Name = "スタミナ切れ"
+Wage = -70000
+Description = "活発に動きすぎて体力を消耗してしまった。70000円失った"
+Chance = 30
+
+end
+
+コンビニ店員
+Name = "珍しいボーナス"
+Wage = 80000
+Description = "店長から日頃の頑張りとしてボーナスを頂いた。80000円獲得"
+Chance = 30
+
+Name = "お客さんから褒められる"
+Wage = 45000
+Description = "おもてなしの心を大事にしていたら、お客さんから褒められた。45000円獲得"
+Chance = 40
+
+Name = "クレーマーに出くわす"
+Wage = -85000
+Description = "理不尽な対応をしてくるクレーマーに出くわした。85000円失った"
+Chance = 30
+
+end
+
+飲食スタッフ
+Name = "珍しいボーナス"
+Wage = 80000
+Description = "店長から日頃の頑張りとしてボーナスを頂いた。80000円獲得"
+Chance = 30
+
+Name = "お客さんから褒められる"
+Wage = 45000
+Description = "おもてなしの心を大事にしていたら、お客さんから褒められた。45000円獲得"
+Chance = 40
+
+Name = "クレーマーに出くわす"
+Wage = -85000
+Description = "理不尽な対応をしてくるクレーマーに出くわした。85000円失った"
+Chance = 30
+
+end
+
+工場
+Name = "休暇ボーナス"
+Wage = 65000
+Description = "休暇を頂いた上に、ボーナスも頂いた。65000円獲得"
+Chance = 30
+
+Name = "今日は調子が良い"
+Wage = 30000
+Description = "作業ペースが順調で、今日は調子が良い。30000円獲得"
+Chance = 40
+
+Name = "作業中にケガ"
+Wage = -70000
+Description = "作業中にケガをした。70000円失った"
+Chance = 30
+
+end
+
+介護
+Name = "勤労感謝"
+Wage = 65000
+Description = "介護者からお勤めご苦労様と感謝を頂いた。65000円獲得"
+Chance = 30
+
+Name = "気分よく勤める"
+Wage = 30000
+Description = "介護者と楽しく過ごせて、気分よく勤められた。30000円獲得"
+Chance = 40
+
+Name = "体調不良"
+Wage = -65000
+Description = "体調不良で仕事を休んでしまった。65000円失った"
+Chance = 30
+
+end
+
+スーパー店員
+Name = "月間成績記録更新"
+Wage = 75000
+Description = "日頃の努力の結果、月間成績記録を更新した。75000円獲得"
+Chance = 30
+
+Name = "スピーディーな対応"
+Wage = 40000
+Description = "お客さんが混んできたので、スピーディーに対応した。40000円獲得"
+Chance = 40
+
+Name = "変人に絡まれる"
+Wage = -80000
+Description = "ある夜、店に来たお客さんに絡まれてトラブルが起きた。80000円失った"
+Chance = 30
+
+end
+
+服屋
+Name = "現場のプロ"
+Wage = 75000
+Description = "売り上げに非常に貢献し、現場のプロと称された。75000円獲得"
+Chance = 30
+
+Name = "好みがバッチリ合う"
+Wage = 40000
+Description = "お客さんの好みそうな服を選んだら、気に入って買ってくれた。40000円獲得"
+Chance = 40
+
+Name = "なかなか売れない"
+Wage = -80000
+Description = "お店に出している服がなかなか売れぬまま、売れ残ってしまった。80000円失った"
+Chance = 30
+
+end
+
+ガソリンスタンド
+Name = "頑張りにボーナス"
+Wage = 60000
+Description = "日頃の頑張りが認められ、特別にボーナスを頂いた。60000円獲得"
+Chance = 30
+
+Name = "対応を褒められる"
+Wage = 30000
+Description = "丁寧にお客さんの対応をしていたら、褒められた。30000円獲得"
+Chance = 40
+
+Name = "お客さんが来ない"
+Wage = -50000
+Description = "お客さんが来ないまま仕事が終わってしまった。50000円失った"
+Chance = 30
+
+end
+
+コールセンター
+Name = "頑張りにボーナス"
+Wage = 80000
+Description = "日頃の頑張りが認められ、特別にボーナスを頂いた。80000円獲得"
+Chance = 30
+
+Name = "対応を褒められる"
+Wage = 40000
+Description = "丁寧にお客さんの対応をしていたら、褒められた。40000円獲得"
+Chance = 40
+
+Name = "脅迫まがいの罵詈雑言の嵐"
+Wage = -80000
+Description = "脅迫まがいの罵詈雑言を浴びせられ、ノイローゼになった。80000円失った"
+Chance = 30
+
+end
+
+イベントスタッフ
+Name = "頑張りにボーナス"
+Wage = 70000
+Description = "観客動員に貢献し、特別にボーナスを頂いた。70000円獲得"
+Chance = 30
+
+Name = "お客様対応に褒められる"
+Wage = 35000
+Description = "丁寧にお客さんの対応をしていたら、褒められた。35000円獲得"
+Chance = 40
+
+Name = "トラブルで怒られる"
+Wage = -60000
+Description = "お客様に怒られて、恨まれた。60000円失った"
+Chance = 30
+
+end
+
+カラオケ
+Name = "団体のお客様ゲット"
+Wage = 60000
+Description = "団体のお客様が入店して賑やかになった。60000円獲得"
+Chance = 30
+
+Name = "長くご利用してくれた"
+Wage = 25000
+Description = "あるお客様が入店して長めの料金プランで楽しんで、満足そうにしていた。25000円獲得"
+Chance = 40
+
+Name = "誰も来なかった"
+Wage = -60000
+Description = "仕事中お客様が一人も入店しなかった。60000円失った"
+Chance = 30
+
+end
+
+引っ越し
+Name = "ボーナスゲット"
+Wage = 65000
+Description = "日頃の頑張りが認められ、ボーナスを頂いた。65000円獲得"
+Chance = 30
+
+Name = "仕事頑張る"
+Wage = 38000
+Description = "時間のかかる引っ越し作業だったが、予定通りに終わってスッキリした。38000円獲得"
+Chance = 40
+
+Name = "仕事中にケガ"
+Wage = -62000
+Description = "仕事中にケガをしてしまった。62000円失った"
+Chance = 30
+
+end
+
+ゲームセンター
+Name = "常時繁盛"
+Wage = 85000
+Description = "人気のゲームセンターとなり、繁盛した。85000円獲得"
+Chance = 30
+
+Name = "また来たいと気に入られる"
+Wage = 35000
+Description = "お客さんに、また来たいと気に入られた。38000円獲得"
+Chance = 40
+
+Name = "SNSで酷評"
+Wage = -73000
+Description = "SNSでゲームセンターの酷評が広まり、客足が途絶えた。73000円失った"
+Chance = 30
+
+end
+
+本屋
+Name = "地元で愛される存在"
+Wage = 80000
+Description = "地元で愛される存在となり、繁盛した。80000円獲得"
+Chance = 30
+
+Name = "気に入ってくれた"
+Wage = 36000
+Description = "お客さんが本が見つかって気に入られた。36000円獲得"
+Chance = 40
+
+Name = "本が売れない"
+Wage = -82000
+Description = "なかなか本が売れず、売れ残ってしまった。82000円失った"
+Chance = 30
+
+end
+
+居酒屋
+Name = "人気居酒屋に"
+Wage = 80000
+Description = "繁盛して、人気居酒屋になった。80000円獲得"
+Chance = 30
+
+Name = "呑みに来てくれた"
+Wage = 30000
+Description = "お客さんが呑みに来てくれた。結構気に入ってくれた。30000円獲得"
+Chance = 40
+
+Name = "お客さん来ない"
+Wage = -90000
+Description = "お客さんが来ず、売り上げに影響が出た。90000円失った"
+Chance = 30
+
+end
+
+カフェ
+Name = "SNSや口コミで話題に"
+Wage = 70000
+Description = "SNSや口コミで話題になった。70000円獲得"
+Chance = 30
+
+Name = "気に入ってくれた"
+Wage = 30000
+Description = "お客さんにおもてなしをしたら気に入ってくれた。30000円獲得"
+Chance = 40
+
+Name = "お客さん来ない"
+Wage = -65000
+Description = "お客さんが来ず、暇していた。65000円失った"
+Chance = 30
+
+end
+
+ファストフード
+Name = "地域でNo.1の満足度を得る"
+Wage = 70000
+Description = "日頃の頑張りが実り、地域でNo.1の満足度を獲得した。70000円獲得"
+Chance = 30
+
+Name = "奮闘ぶりに褒めてくれた"
+Wage = 35000
+Description = "お客さんに向き合って頑張ったら、お客さんから奮闘ぶりに褒めてくれた。35000円獲得"
+Chance = 40
+
+Name = "クレーマーの嫌がらせ"
+Wage = -80000
+Description = "クレーマーの理不尽な要求に対応を迫られ、疲労困憊した。80000円失った"
+Chance = 30
+
+end
+
+漫画喫茶
+Name = "お客様から愛される"
+Wage = 68000
+Description = "日頃の頑張りが評価され、お客様から厚い信頼を頂けるようになった。68000円獲得"
+Chance = 30
+
+Name = "地道なおもてなし"
+Wage = 35000
+Description = "トイレ掃除したり、ドリンクコーナーのメンテナンスなどをやって衛生面を徹底的にケアした。35000円獲得"
+Chance = 40
+
+Name = "お客さんの嫌がらせ"
+Wage = -70000
+Description = "指定時間を過ぎても料金を支払おうとしないお客に困ってしまった。70000円失った"
+Chance = 30
+
+end
+
+ピザ配達
+Name = "売上貢献度1位"
+Wage = 65000
+Description = "売上貢献度1位を獲得して、上司から褒められた！65000円獲得"
+Chance = 30
+
+Name = "スピーディーに対応"
+Wage = 33000
+Description = "注文したピザを速く届けられるように、スピーディーに対応した。33000円獲得"
+Chance = 40
+
+Name = "注文が違うクレーム"
+Wage = -65000
+Description = "頼んだピザと違う！とクレームを受けた。65000円失った"
+Chance = 30
+
+end

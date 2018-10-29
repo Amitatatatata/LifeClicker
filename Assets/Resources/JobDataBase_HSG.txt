@@ -1,0 +1,223 @@
+﻿コンビニ店員
+必要いいね = 0
+必要アイテム
+itemend
+次のJob
+nextjobend
+背景名 = room
+
+飲食スタッフ
+必要いいね = 0
+必要アイテム
+itemend
+次のJob
+nextjobend
+背景名 = room
+
+工場
+必要いいね = 0
+必要アイテム
+itemend
+次のJob
+nextjobend
+背景名 = room
+
+介護
+必要いいね = 0
+必要アイテム
+itemend
+次のJob
+nextjobend
+背景名 = room
+
+スーパー店員
+必要いいね = 0
+必要アイテム
+itemend
+次のJob
+nextjobend
+背景名 = room
+
+服屋
+必要いいね = 0
+必要アイテム
+itemend
+次のJob
+nextjobend
+背景名 = room
+
+ガソリンスタンド
+必要いいね = 0
+必要アイテム
+itemend
+次のJob
+nextjobend
+背景名 = room
+
+コールセンター
+必要いいね = 0
+必要アイテム
+itemend
+次のJob
+nextjobend
+背景名 = room
+
+イベントスタッフ
+必要いいね = 0
+必要アイテム
+itemend
+次のJob
+nextjobend
+背景名 = room
+
+カラオケ
+必要いいね = 0
+必要アイテム
+itemend
+次のJob
+nextjobend
+背景名 = room
+
+引っ越し
+必要いいね = 0
+必要アイテム
+itemend
+次のJob
+nextjobend
+背景名 = room
+
+ゲームセンター
+必要いいね = 0
+必要アイテム
+itemend
+次のJob
+nextjobend
+背景名 = room
+
+本屋
+必要いいね = 0
+必要アイテム
+itemend
+次のJob
+nextjobend
+背景名 = room
+
+居酒屋
+必要いいね = 0
+必要アイテム
+itemend
+次のJob
+nextjobend
+背景名 = room
+
+カフェ
+必要いいね = 0
+必要アイテム
+itemend
+次のJob
+nextjobend
+背景名 = room
+
+ファストフード
+必要いいね = 0
+必要アイテム
+itemend
+次のJob
+nextjobend
+背景名 = room
+
+漫画喫茶
+必要いいね = 0
+必要アイテム
+itemend
+次のJob
+nextjobend
+背景名 = room
+
+ピザ配達
+必要いいね = 0
+必要アイテム
+itemend
+次のJob
+nextjobend
+背景名 = room
+
+パチンコスタッフ
+必要いいね = 0
+必要アイテム
+itemend
+次のJob
+nextjobend
+背景名 = room
+
+土木
+必要いいね = 0
+必要アイテム
+itemend
+次のJob
+nextjobend
+背景名 = room
+
+配送
+必要いいね = 0
+必要アイテム
+itemend
+次のJob
+nextjobend
+背景名 = room
+
+清掃
+必要いいね = 0
+必要アイテム
+itemend
+次のJob
+nextjobend
+背景名 = room
+
+建築
+必要いいね = 0
+必要アイテム
+itemend
+次のJob
+nextjobend
+背景名 = room
+
+Youtuber
+必要いいね = 0
+必要アイテム
+itemend
+次のJob
+nextjobend
+背景名 = room
+
+アフィリエイター
+必要いいね = 0
+必要アイテム
+itemend
+次のJob
+nextjobend
+背景名 = room
+
+警備員
+必要いいね = 0
+必要アイテム
+itemend
+次のJob
+nextjobend
+背景名 = room
+
+仕分け
+必要いいね = 0
+必要アイテム
+itemend
+次のJob
+nextjobend
+背景名 = room
+
+着ぐるみ
+必要いいね = 0
+必要アイテム
+itemend
+次のJob
+nextjobend
+背景名 = room

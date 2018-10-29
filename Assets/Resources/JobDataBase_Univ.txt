@@ -1,0 +1,832 @@
+﻿文学部
+必要いいね = 10000
+必要アイテム
+any = or
+小説
+歴史書
+jobend
+itemend
+次のJob
+歴史学者
+nextjobend
+背景名 = room
+
+法学部
+必要いいね = 10000
+必要アイテム
+any
+六法全書
+jobend
+itemend
+次のJob
+弁護士
+nextjobend
+背景名 = room
+
+教育学部
+必要いいね = 10000
+必要アイテム
+any
+チョーク
+ホワイトボード
+jobend
+itemend
+次のJob
+教師
+nextjobend
+背景名 = room
+
+理学部
+必要いいね = 10000
+必要アイテム
+any
+計算ドリル
+問題集
+jobend
+itemend
+次のJob
+科学者
+nextjobend
+背景名 = room
+
+農学部
+必要いいね = 10000
+必要アイテム
+any
+スコップ
+jobend
+itemend
+次のJob
+農家
+nextjobend
+背景名 = room
+
+情報学部
+必要いいね = 10000
+必要アイテム
+any
+ノートパソコン
+jobend
+itemend
+次のJob
+プログラマー
+nextjobend
+背景名 = room
+
+社会学部
+必要いいね = 10000
+必要アイテム
+any
+英字新聞
+jobend
+itemend
+次のJob
+ジャーナリスト
+nextjobend
+背景名 = room
+
+経済学部
+必要いいね = 10000
+必要アイテム
+any
+経済新聞
+jobend
+itemend
+次のJob
+経済評論家
+nextjobend
+背景名 = room
+
+工学部
+必要いいね = 10000
+必要アイテム
+any
+自作PC
+jobend
+itemend
+次のJob
+技術士
+nextjobend
+背景名 = room
+
+体育学部
+必要いいね = 10000
+必要アイテム
+any
+賞状
+jobend
+itemend
+次のJob
+スポーツ選手
+nextjobend
+背景名 = room
+
+医学部
+必要いいね = 10000
+必要アイテム
+any
+昆虫標本
+聴診器
+jobend
+itemend
+次のJob
+医者
+nextjobend
+背景名 = room
+
+芸術学部
+必要いいね = 10000
+必要アイテム
+any
+デザイン本
+jobend
+itemend
+次のJob
+デザイナー
+nextjobend
+背景名 = room
+
+歴史学者
+必要いいね = 30000
+必要アイテム
+itemend
+次のJob
+nextjobend
+背景名 = room
+
+弁護士
+必要いいね = 30000
+必要アイテム
+itemend
+次のJob
+nextjobend
+背景名 = room
+
+教師
+必要いいね = 30000
+必要アイテム
+itemend
+次のJob
+nextjobend
+背景名 = room
+
+科学者
+必要いいね = 30000
+必要アイテム
+itemend
+次のJob
+nextjobend
+背景名 = room
+
+農家
+必要いいね = 30000
+必要アイテム
+itemend
+次のJob
+nextjobend
+背景名 = room
+
+プログラマー
+必要いいね = 30000
+必要アイテム
+itemend
+次のJob
+nextjobend
+背景名 = room
+
+ジャーナリスト
+必要いいね = 30000
+必要アイテム
+itemend
+次のJob
+nextjobend
+背景名 = room
+
+経済評論家
+必要いいね = 30000
+必要アイテム
+itemend
+次のJob
+nextjobend
+背景名 = room
+
+技術士
+必要いいね = 30000
+必要アイテム
+itemend
+次のJob
+nextjobend
+背景名 = room
+
+スポーツ選手
+必要いいね = 30000
+必要アイテム
+itemend
+次のJob
+nextjobend
+背景名 = room
+
+医者
+必要いいね = 30000
+必要アイテム
+itemend
+次のJob
+nextjobend
+背景名 = room
+
+デザイナー
+必要いいね = 30000
+必要アイテム
+itemend
+次のJob
+nextjobend
+背景名 = room
+
+Webとゲーム
+必要いいね = 10000
+必要アイテム
+any
+ゲーム機
+jobend
+itemend
+次のJob
+ゲームクリエイター
+Webデザイナー
+nextjobend
+背景名 = room
+
+建築・土木
+必要いいね = 10000
+必要アイテム
+any
+トンカチ
+jobend
+itemend
+次のJob
+建築士
+大工
+nextjobend
+背景名 = room
+
+インテリア
+必要いいね = 10000
+必要アイテム
+any
+ソファ
+jobend
+itemend
+次のJob
+インテリアコーディネーター
+nextjobend
+背景名 = room
+
+看護（医療・リハビリ）
+必要いいね = 10000
+必要アイテム
+itemend
+次のJob
+看護師
+整体師
+nextjobend
+背景名 = room
+
+調理・製菓・栄養士
+必要いいね = 10000
+必要アイテム
+any
+おままごとセット
+jobend
+itemend
+次のJob
+調理師
+パティシエ
+nextjobend
+背景名 = room
+
+公務員
+必要いいね = 10000
+必要アイテム
+itemend
+次のJob
+地方公務員
+国家公務員
+nextjobend
+背景名 = room
+
+語学
+必要いいね = 10000
+必要アイテム
+any
+英語辞典
+jobend
+itemend
+次のJob
+通訳師
+翻訳家
+nextjobend
+背景名 = room
+
+漫画
+必要いいね = 10000
+必要アイテム
+any
+漫画
+jobend
+itemend
+次のJob
+漫画家
+nextjobend
+背景名 = room
+
+芸術・工芸
+必要いいね = 10000
+必要アイテム
+any
+映える写真
+jobend
+itemend
+次のJob
+芸術家
+nextjobend
+背景名 = room
+
+美容・メイク
+必要いいね = 10000
+必要アイテム
+any
+コスメグッズ
+jobend
+itemend
+次のJob
+スタイリスト
+nextjobend
+背景名 = room
+
+理容・理髪
+必要いいね = 10000
+必要アイテム
+any
+くし
+jobend
+itemend
+次のJob
+理容師
+nextjobend
+背景名 = room
+
+機械/電気・電子
+必要いいね = 10000
+必要アイテム
+any
+はんだ
+jobend
+itemend
+次のJob
+電気技術師
+nextjobend
+背景名 = room
+
+保育・教育
+必要いいね = 10000
+必要アイテム
+itemend
+次のJob
+保育士
+教師
+塾講師
+nextjobend
+背景名 = room
+
+旅行・観光・ホテル
+必要いいね = 10000
+必要アイテム
+any
+観光写真
+jobend
+itemend
+次のJob
+ホテルスタッフ
+旅行代理店
+ツアープランナー
+nextjobend
+背景名 = room
+
+ビジネスと経営
+必要いいね = 10000
+必要アイテム
+any
+自己啓発本
+jobend
+itemend
+次のJob
+起業家
+会計士
+nextjobend
+背景名 = room
+
+音楽
+必要いいね = 10000
+必要アイテム
+any = or
+ギター
+スピーカー
+ピアノ
+jobend
+itemend
+次のJob
+音楽家
+DJ
+nextjobend
+背景名 = room
+
+イベント（ライブ会場の設営や運営）
+必要いいね = 10000
+必要アイテム
+any
+ライブチケット
+jobend
+itemend
+次のJob
+イベントスタッフ
+nextjobend
+背景名 = room
+
+健康・スポーツ
+必要いいね = 10000
+必要アイテム
+any
+マッサージ本
+jobend
+itemend
+次のJob
+トレーナー
+nextjobend
+背景名 = room
+
+自転車・航空
+必要いいね = 10000
+必要アイテム
+any
+スパナ
+jobend
+itemend
+次のJob
+整備士
+nextjobend
+背景名 = room
+
+動物
+必要いいね = 10000
+必要アイテム
+any
+動物園チケット
+jobend
+itemend
+次のJob
+飼育員
+nextjobend
+背景名 = room
+
+園芸・農林
+必要いいね = 10000
+必要アイテム
+any
+たんぽぽ
+jobend
+itemend
+次のJob
+園芸師
+nextjobend
+背景名 = room
+
+ファッション
+必要いいね = 10000
+必要アイテム
+any
+ファッション誌
+jobend
+itemend
+次のJob
+スタイリスト
+ファッションデザイナー
+nextjobend
+背景名 = room
+
+マスコミ・芸能
+必要いいね = 10000
+必要アイテム
+any = or
+新聞
+週刊誌
+jobend
+itemend
+次のJob
+アナウンサー
+芸能人
+ジャーナリスト
+nextjobend
+背景名 = room
+
+ゲームクリエイター
+必要いいね = 30000
+必要アイテム
+itemend
+次のJob
+nextjobend
+背景名 = room
+
+Webデザイナー
+必要いいね = 30000
+必要アイテム
+itemend
+次のJob
+nextjobend
+背景名 = room
+
+建築士
+必要いいね = 30000
+必要アイテム
+itemend
+次のJob
+nextjobend
+背景名 = room
+
+大工
+必要いいね = 30000
+必要アイテム
+itemend
+次のJob
+nextjobend
+背景名 = room
+
+インテリアコーディネーター
+必要いいね = 30000
+必要アイテム
+itemend
+次のJob
+nextjobend
+背景名 = room
+
+看護師
+必要いいね = 30000
+必要アイテム
+itemend
+次のJob
+nextjobend
+背景名 = room
+
+整体師
+必要いいね = 30000
+必要アイテム
+itemend
+次のJob
+nextjobend
+背景名 = room
+
+調理師
+必要いいね = 30000
+必要アイテム
+itemend
+次のJob
+nextjobend
+背景名 = room
+
+パティシエ
+必要いいね = 30000
+必要アイテム
+itemend
+次のJob
+nextjobend
+背景名 = room
+
+地方公務員
+必要いいね = 30000
+必要アイテム
+itemend
+次のJob
+nextjobend
+背景名 = room
+
+国家公務員
+必要いいね = 30000
+必要アイテム
+itemend
+次のJob
+nextjobend
+背景名 = room
+
+通訳師
+必要いいね = 30000
+必要アイテム
+itemend
+次のJob
+nextjobend
+背景名 = room
+
+翻訳家
+必要いいね = 30000
+必要アイテム
+itemend
+次のJob
+nextjobend
+背景名 = room
+
+漫画家
+必要いいね = 30000
+必要アイテム
+itemend
+次のJob
+nextjobend
+背景名 = room
+
+芸術家
+必要いいね = 30000
+必要アイテム
+itemend
+次のJob
+nextjobend
+背景名 = room
+
+スタイリスト
+必要いいね = 30000
+必要アイテム
+itemend
+次のJob
+nextjobend
+背景名 = room
+
+理容師
+必要いいね = 30000
+必要アイテム
+itemend
+次のJob
+nextjobend
+背景名 = room
+
+電気技術師
+必要いいね = 30000
+必要アイテム
+itemend
+次のJob
+nextjobend
+背景名 = room
+
+保育士
+必要いいね = 30000
+必要アイテム
+itemend
+次のJob
+nextjobend
+背景名 = room
+
+教師
+必要いいね = 30000
+必要アイテム
+itemend
+次のJob
+nextjobend
+背景名 = room
+
+塾講師
+必要いいね = 30000
+必要アイテム
+itemend
+次のJob
+nextjobend
+背景名 = room
+
+ホテルスタッフ
+必要いいね = 30000
+必要アイテム
+itemend
+次のJob
+nextjobend
+背景名 = room
+
+旅行代理店
+必要いいね = 30000
+必要アイテム
+itemend
+次のJob
+nextjobend
+背景名 = room
+
+ツアープランナー
+必要いいね = 30000
+必要アイテム
+itemend
+次のJob
+nextjobend
+背景名 = room
+
+起業家
+必要いいね = 30000
+必要アイテム
+itemend
+次のJob
+nextjobend
+背景名 = room
+
+会計士
+必要いいね = 30000
+必要アイテム
+itemend
+次のJob
+nextjobend
+背景名 = room
+
+音楽家
+必要いいね = 30000
+必要アイテム
+itemend
+次のJob
+nextjobend
+背景名 = room
+
+DJ
+必要いいね = 30000
+必要アイテム
+itemend
+次のJob
+nextjobend
+背景名 = room
+
+イベントスタッフ
+必要いいね = 30000
+必要アイテム
+itemend
+次のJob
+nextjobend
+背景名 = room
+
+トレーナー
+必要いいね = 30000
+必要アイテム
+itemend
+次のJob
+nextjobend
+背景名 = room
+
+整備士
+必要いいね = 30000
+必要アイテム
+itemend
+次のJob
+nextjobend
+背景名 = room
+
+飼育員
+必要いいね = 30000
+必要アイテム
+itemend
+次のJob
+nextjobend
+背景名 = room
+
+園芸師
+必要いいね = 30000
+必要アイテム
+itemend
+次のJob
+nextjobend
+背景名 = room
+
+スタイリスト
+必要いいね = 30000
+必要アイテム
+itemend
+次のJob
+nextjobend
+背景名 = room
+
+ファッションデザイナー
+必要いいね = 30000
+必要アイテム
+itemend
+次のJob
+nextjobend
+背景名 = room
+
+アナウンサー
+必要いいね = 30000
+必要アイテム
+itemend
+次のJob
+nextjobend
+背景名 = room
+
+芸能人
+必要いいね = 30000
+必要アイテム
+itemend
+次のJob
+nextjobend
+背景名 = room
+
+ジャーナリスト
+必要いいね = 30000
+必要アイテム
+itemend
+次のJob
+nextjobend
+背景名 = room

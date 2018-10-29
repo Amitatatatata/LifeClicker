@@ -1,0 +1,127 @@
+﻿赤ちゃん
+必要いいね = 0
+必要アイテム
+itemend
+次のJob
+子供
+nextjobend
+背景名 = room
+
+子供
+必要いいね = 200
+必要アイテム
+itemend
+次のJob
+幼稚園児
+エリート園児
+nextjobend
+背景名 = room
+
+幼稚園児
+必要いいね = 500
+必要アイテム
+itemend
+次のJob
+小学生
+エリート小学生
+nextjobend
+背景名 = room
+
+エリート園児
+必要いいね = 500
+必要アイテム
+any
+絵本
+積み木
+jobend
+itemend
+次のJob
+小学生
+エリート小学生
+nextjobend
+背景名 = room
+
+小学生
+必要いいね = 1000
+必要アイテム
+itemend
+次のJob
+中学生
+エリート中学生
+nextjobend
+背景名 = room
+
+エリート小学生
+必要いいね = 1000
+必要アイテム
+幼稚園児
+ひらがなドリル
+計算ドリル
+jobend
+エリート園児
+地球儀
+jobend
+itemend
+次のJob
+中学生
+エリート中学生
+nextjobend
+背景名 = room
+
+中学生
+必要いいね = 3000
+必要アイテム
+itemend
+次のJob
+社会人
+高校生
+エリート高校生
+nextjobend
+背景名 = room
+
+エリート中学生
+必要いいね = 3000
+必要アイテム
+小学生
+賞状
+全国模試TOP50
+jobend
+エリート小学生
+電子辞書
+言葉遣い
+jobend
+itemend
+次のJob
+社会人
+高校生
+エリート高校生
+nextjobend
+背景名 = room
+
+高校生
+必要いいね = 6000
+必要アイテム
+itemend
+次のJob
+社会人
+大学生/専門学生
+nextjobend
+背景名 = room
+
+エリート高校生
+必要いいね = 6000
+必要アイテム
+中学生 = or
+ピアノ
+ノートパソコン
+jobend
+エリート小学生
+電子辞書
+言葉遣い
+jobend
+itemend
+次のJob
+社会人
+大学生/専門学生
+nextjobend
+背景名 = room
