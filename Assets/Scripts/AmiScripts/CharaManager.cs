@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using System.Linq;
 
 namespace Ami
 {
@@ -26,14 +27,15 @@ namespace Ami
                 gameManager.UpdateMoneyLabel(money);
             }
         }
-        private Job NowJob { get; set; }
-        private List<string> itemNames = new List<string>() { "apple", "orange" }; //持っているアイテム
+        public Job NowJob { get; set; }
+        public List<string> itemNames; //持っているアイテム
 
         // Use this for initialization
         void Start()
         {
             Money = PlayerPrefs.GetInt("お金", 0);
-            NowJob = JobDataBase.GetJob("赤ちゃん");
+            itemNames = PlayerPrefsUtils.LoadList<string>("アイテム");
+            NowJob = JobDataBase.GetJob(PlayerPrefs.GetString("職業", "赤ちゃん"));
             mySprite = GetComponent<SpriteRenderer>();
 
             SetJobSprite();
@@ -85,12 +87,9 @@ namespace Ami
         //現在のJobから成長可能なJobがあるか調べる
         private Job GrowableJob()
         {
-            foreach (var nextJobName in NowJob.NextJobs)
-            {
-                Job nextJob = JobDataBase.GetJob(nextJobName);
-                if (nextJob.IsGrowable(NowJob.Name, gameManager.nowIine, itemNames)) return nextJob;
-            }
-            return null;
+            var list = NowJob.NextJobs.Where(nextJob => JobDataBase.GetJob(nextJob).IsGrowable(NowJob.Name, gameManager.nowIine, itemNames));
+            if (list.Count() == 0) return null;
+            else return JobDataBase.GetJob(list.ElementAt(Random.Range(0, list.Count())));
         }
 
         //Jobを派生Jobに更新する

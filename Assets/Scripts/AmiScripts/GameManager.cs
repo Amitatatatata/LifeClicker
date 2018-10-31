@@ -43,8 +43,11 @@ namespace Ami
         {
             PlayerPrefs.SetInt("いいね", nowIine);
             PlayerPrefs.SetInt("お金", chara.Money);
+            PlayerPrefs.SetString("職業", chara.NowJob.Name);
+            PlayerPrefsUtils.SaveList("アイテム", chara.itemNames);
             PlayerPrefs.Save();
         }
+
 
 
         //ハートを生成していいねを増やす
